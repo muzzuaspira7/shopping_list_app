@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445560399577",
+    "project_id": "shoppinglist-1993b",
+    "storage_bucket": "shoppinglist-1993b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445560399577:android:78a22115a1741668a300c8",
+        "android_client_info": {
+          "package_name": "com.example.shopping_list_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwfhxpynlENZBRiHL4wVBtYZSlgSV_Cqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
